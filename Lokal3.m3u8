@@ -335,7 +335,7 @@ https://anevia114.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 https://anevia114.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="C-Kids",KIDS TV
-
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/162505
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
